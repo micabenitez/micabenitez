@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Micaela
 
+<strong><a href="https://www.linkedin.com/in/edisonlee55">LinkedIn</a></strong> |
 ## 📫 Reach me on
 <a href="https://mail.google.com/ ">
   <img align="left" alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" height="30" width="30" />
