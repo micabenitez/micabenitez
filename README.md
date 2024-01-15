@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Micaela
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micaelabenitezz/)](https://www.linkedin.com/in/micaelabenitezz/)
+[![Gmail Badge](https://img.shields.io/badge/-mabenittez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mabenittez@gmail.com)](mailto:mabenittez@gmail.com)
 ## ⚡ Technologies
 
 ![Static Badge](https://img.shields.io/badge/-hmtl-white?style=for-the-badge&logo=html5&logoColor=white&color=FC2F00)
