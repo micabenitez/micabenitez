@@ -11,7 +11,6 @@
 ![Static Badge](https://img.shields.io/badge/-express-white?style=for-the-badge&logo=express&logoColor=white&color=5BBA6F)
 ![Static Badge](https://img.shields.io/badge/-go-black?style=for-the-badge&logo=go&logoColor=white&color=29BEB0)
 ![Static Badge](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=white&color=06BEE1)
-
 ![Static Badge](https://img.shields.io/badge/-bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white&color=6F58C9)
 ![Static Badge](https://img.shields.io/badge/-css-white?style=for-the-badge&logo=css3&logoColor=white&color=016FB9)
 ![Static Badge](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=white&color=4B8BBE)
