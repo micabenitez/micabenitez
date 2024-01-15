@@ -1,8 +1,17 @@
-### Hi there 👋, I'm Micaela
+# Hi there 👋, I'm Micaela
+
+## 📫 Reach me on
+<a href="https://mail.google.com/ ">
+  <img align="left" alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" height="30" width="30" />
+</a>
+
+<a href="https://linkedin.com/in/micaelabenitezZ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micaelabenitezz/)](https://www.linkedin.com/in/micaelabenitezz/)
 [![Gmail Badge](https://img.shields.io/badge/-mabenittez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mabenittez@gmail.com)](mailto:mabenittez@gmail.com)
-## ⚡ Technologies
+
+## 🛠 Technologies and Tools
 
 ![Static Badge](https://img.shields.io/badge/-hmtl-white?style=for-the-badge&logo=html5&logoColor=white&color=FC2F00)
 ![Static Badge](https://img.shields.io/badge/-git-white?style=for-the-badge&logo=git&logoColor=white&color=F1502F)
