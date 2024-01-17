@@ -1,8 +1,8 @@
-<h2 align='center'>Hi there 👋</h2>
-<p><em>Estudiante de Lic. en Sistemas en <a href='https://www.ungs.edu.ar/'>UNGS</a></em> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+<h2>Hi, I'm Micaela</h2>
+<p>A student of the bachelor's degree in systems at <a href='https://www.ungs.edu.ar/'>UNGS</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
-#
-## 🛠 Technologies and tools I use
+
+### 🛠 Technologies and tools I use
 ![Static Badge](https://img.shields.io/badge/-html-white?style=for-the-badge&logo=html5&logoColor=white&color=FC2F00)
 ![Static Badge](https://img.shields.io/badge/-git-white?style=for-the-badge&logo=git&logoColor=white&color=F1502F)
 ![Static Badge](https://img.shields.io/badge/-postman-white?style=for-the-badge&logo=postman&logoColor=white&color=F35B04)
@@ -19,6 +19,6 @@
 ![Static Badge](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=white&color=33658A)
 ![Static Badge](https://img.shields.io/badge/-flask-black?style=for-the-badge&logo=flask&logoColor=white&color=1B2432)
 
-## 📫 Reach me on
+### 📫 Reach me on
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micaelabenitezz/)](https://www.linkedin.com/in/micaelabenitezz/)
 [![Gmail Badge](https://img.shields.io/badge/-mabenittez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mabenittez@gmail.com)](mailto:mabenittez@gmail.com)
