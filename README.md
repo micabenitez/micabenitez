@@ -1,17 +1,5 @@
 # Hi there 👋, I'm Micaela
 
-<strong><a href="https://www.linkedin.com/in/edisonlee55">LinkedIn</a></strong> |
-## 📫 Reach me on
-<a href="https://mail.google.com/ ">
-  <img align="left" alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" height="30" width="30" />
-</a>
-
-<a href="https://linkedin.com/in/micaelabenitezZ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micaelabenitezz/)](https://www.linkedin.com/in/micaelabenitezz/)
-[![Gmail Badge](https://img.shields.io/badge/-mabenittez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mabenittez@gmail.com)](mailto:mabenittez@gmail.com)
-
 ## 🛠 Technologies and Tools
 
 ![Static Badge](https://img.shields.io/badge/-hmtl-white?style=for-the-badge&logo=html5&logoColor=white&color=FC2F00)
@@ -30,3 +18,6 @@
 ![Static Badge](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=white&color=33658A)
 ![Static Badge](https://img.shields.io/badge/-flask-black?style=for-the-badge&logo=flask&logoColor=white&color=1B2432)
 
+## 📫 Reach me on
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micaelabenitezz/)](https://www.linkedin.com/in/micaelabenitezz/)
+[![Gmail Badge](https://img.shields.io/badge/-mabenittez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mabenittez@gmail.com)](mailto:mabenittez@gmail.com)
