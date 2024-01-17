@@ -2,7 +2,7 @@
 
 ## 🛠 Technologies and Tools
 
-![Static Badge](https://img.shields.io/badge/-hmtl-white?style=for-the-badge&logo=html5&logoColor=white&color=FC2F00)
+![Static Badge](https://img.shields.io/badge/-html-white?style=for-the-badge&logo=html5&logoColor=white&color=FC2F00)
 ![Static Badge](https://img.shields.io/badge/-git-white?style=for-the-badge&logo=git&logoColor=white&color=F1502F)
 ![Static Badge](https://img.shields.io/badge/-postman-white?style=for-the-badge&logo=postman&logoColor=white&color=F35B04)
 ![Static Badge](https://img.shields.io/badge/-javascript-white?style=for-the-badge&logo=javascript&logoColor=white&color=FFBC0A)
