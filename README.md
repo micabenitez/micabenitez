@@ -1,7 +1,7 @@
 <h2 align='center'>Hi there 👋</h2>
-<p align='center'>Estudiante de Lic. en Sistemas en <a href='https://www.ungs.edu.ar/'>UNGS</a></p>
-<!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
+<p><em>Estudiante de Lic. en Sistemas en <a href='https://www.ungs.edu.ar/'>UNGS</a></em> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
+#
 ## 🛠 Technologies and tools I use
 ![Static Badge](https://img.shields.io/badge/-html-white?style=for-the-badge&logo=html5&logoColor=white&color=FC2F00)
 ![Static Badge](https://img.shields.io/badge/-git-white?style=for-the-badge&logo=git&logoColor=white&color=F1502F)
